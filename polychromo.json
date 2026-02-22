@@ -1,0 +1,704 @@
+[
+    {
+        "number": 101,
+        "name": "white",
+        "family": "neutral",
+        "hex": "#FFFFFF"
+    },
+    {
+        "number": 102,
+        "name": "cream",
+        "family": "yellow",
+        "hex": "#FFF1B6"
+    },
+    {
+        "number": 103,
+        "name": "ivory",
+        "family": "yellow",
+        "hex": "#FFF4D8"
+    },
+    {
+        "number": 104,
+        "name": "light yellow glaze",
+        "family": "yellow",
+        "hex": "#F3EF6F"
+    },
+    {
+        "number": 105,
+        "name": "light cadmium yellow",
+        "family": "yellow",
+        "hex": "#FFE73E"
+    },
+    {
+        "number": 106,
+        "name": "light chrome yellow",
+        "family": "yellow",
+        "hex": "#FFDE45"
+    },
+    {
+        "number": 107,
+        "name": "cadmium yellow",
+        "family": "yellow",
+        "hex": "#FFD530"
+    },
+    {
+        "number": 108,
+        "name": "dark cadmium yellow",
+        "family": "yellow",
+        "hex": "#FFC220"
+    },
+    {
+        "number": 109,
+        "name": "dark chrome yellow",
+        "family": "yellow",
+        "hex": "#FAA632"
+    },
+    {
+        "number": 110,
+        "name": "phthalo blue",
+        "family": "blue",
+        "hex": "#0B7DC2"
+    },
+    {
+        "number": 111,
+        "name": "cadmium orange",
+        "family": "orange",
+        "hex": "#F78F26"
+    },
+    {
+        "number": 112,
+        "name": "leaf green",
+        "family": "green",
+        "hex": "#49B95C"
+    },
+    {
+        "number": 113,
+        "name": "orange glaze",
+        "family": "orange",
+        "hex": "#F48034"
+    },
+    {
+        "number": 115,
+        "name": "dark cadmium orange",
+        "family": "orange",
+        "hex": "#F47933"
+    },
+    {
+        "number": 116,
+        "name": "Scarlet Red (old 116)*",
+        "family": "red",
+        "hex": "#E84D47"
+    },
+    {
+        "number": 117,
+        "name": "light cadmium red",
+        "family": "red",
+        "hex": "#F05544"
+    },
+    {
+        "number": 118,
+        "name": "scarlet red",
+        "family": "red",
+        "hex": "#E84D47"
+    },
+    {
+        "number": 119,
+        "name": "light magenta",
+        "family": "pink",
+        "hex": "#D786B9"
+    },
+    {
+        "number": 120,
+        "name": "ultramarine",
+        "family": "blue",
+        "hex": "#506DB4"
+    },
+    {
+        "number": 121,
+        "name": "pale geranium lake",
+        "family": "red",
+        "hex": "#EF4650"
+    },
+    {
+        "number": 123,
+        "name": "fuchsia",
+        "family": "pink",
+        "hex": "#EF4C86"
+    },
+    {
+        "number": 124,
+        "name": "rose carmine",
+        "family": "pink",
+        "hex": "#E95C72"
+    },
+    {
+        "number": 125,
+        "name": "middle purple pink",
+        "family": "pink",
+        "hex": "#C3408B"
+    },
+    {
+        "number": 126,
+        "name": "permanent carmine",
+        "family": "red",
+        "hex": "#D82C4A"
+    },
+    {
+        "number": 127,
+        "name": "pink carmine",
+        "family": "pink",
+        "hex": "#E85274"
+    },
+    {
+        "number": 128,
+        "name": "light purple pink",
+        "family": "pink",
+        "hex": "#F06D98"
+    },
+    {
+        "number": 129,
+        "name": "pink madder lake",
+        "family": "pink",
+        "hex": "#F389B2"
+    },
+    {
+        "number": 130,
+        "name": "dark flesh",
+        "family": "pink",
+        "hex": "#F69892"
+    },
+    {
+        "number": 131,
+        "name": "medium flesh",
+        "family": "pink",
+        "hex": "#F69C99"
+    },
+    {
+        "number": 132,
+        "name": "light flesh",
+        "family": "pink",
+        "hex": "#FBC29F"
+    },
+    {
+        "number": 133,
+        "name": "magenta",
+        "family": "pink",
+        "hex": "#934E67"
+    },
+    {
+        "number": 134,
+        "name": "crimson",
+        "family": "violet",
+        "hex": "#A14D9D"
+    },
+    {
+        "number": 135,
+        "name": "light red-violet",
+        "family": "violet",
+        "hex": "#AB68A1"
+    },
+    {
+        "number": 136,
+        "name": "purple violet",
+        "family": "violet",
+        "hex": "#7358A0"
+    },
+    {
+        "number": 137,
+        "name": "blue violet",
+        "family": "violet",
+        "hex": "#59529E"
+    },
+    {
+        "number": 138,
+        "name": "violet",
+        "family": "violet",
+        "hex": "#8A6BAF"
+    },
+    {
+        "number": 140,
+        "name": "light ultramarine",
+        "family": "blue",
+        "hex": "#659AD2"
+    },
+    {
+        "number": 141,
+        "name": "Delft blue",
+        "family": "blue",
+        "hex": "#484F9F"
+    },
+    {
+        "number": 143,
+        "name": "cobalt blue",
+        "family": "blue",
+        "hex": "#056AB5"
+    },
+    {
+        "number": 144,
+        "name": "cobalt blue-greenish",
+        "family": "blue",
+        "hex": "#156DB6"
+    },
+    {
+        "number": 145,
+        "name": "light phthalo blue",
+        "family": "blue",
+        "hex": "#43ACE1"
+    },
+    {
+        "number": 146,
+        "name": "sky blue",
+        "family": "blue",
+        "hex": "#86B2DF"
+    },
+    {
+        "number": 149,
+        "name": "bluish turquoise",
+        "family": "blue-green",
+        "hex": "#0077A2"
+    },
+    {
+        "number": 151,
+        "name": "helioblue-reddish",
+        "family": "blue",
+        "hex": "#1770B8"
+    },
+    {
+        "number": 152,
+        "name": "middle phthalo blue",
+        "family": "blue",
+        "hex": "#309CD6"
+    },
+    {
+        "number": 153,
+        "name": "cobalt turquoise",
+        "family": "blue-green",
+        "hex": "#0082A2"
+    },
+    {
+        "number": 154,
+        "name": "light cobalt turquoise",
+        "family": "blue-green",
+        "hex": "#66CBDA"
+    },
+    {
+        "number": 155,
+        "name": "helio turquoise",
+        "family": "blue-green",
+        "hex": "#087E90"
+    },
+    {
+        "number": 156,
+        "name": "cobalt green",
+        "family": "blue-green",
+        "hex": "#01BABD"
+    },
+    {
+        "number": 157,
+        "name": "dark indigo",
+        "family": "blue",
+        "hex": "#3E4A5B"
+    },
+    {
+        "number": 158,
+        "name": "deep cobalt green",
+        "family": "green",
+        "hex": "#146B60"
+    },
+    {
+        "number": 159,
+        "name": "Hooker´s green",
+        "family": "green",
+        "hex": "#0B7764"
+    },
+    {
+        "number": 160,
+        "name": "manganese violet",
+        "family": "violet",
+        "hex": "#9A69AD"
+    },
+    {
+        "number": 161,
+        "name": "phthalo green",
+        "family": "green",
+        "hex": "#00B091"
+    },
+    {
+        "number": 162,
+        "name": "light phthalo green",
+        "family": "green",
+        "hex": "#38BB8F"
+    },
+    {
+        "number": 163,
+        "name": "emerald green",
+        "family": "green",
+        "hex": "#0CB074"
+    },
+    {
+        "number": 165,
+        "name": "juniper green",
+        "family": "green",
+        "hex": "#44694D"
+    },
+    {
+        "number": 166,
+        "name": "grass green",
+        "family": "green",
+        "hex": "#76C25F"
+    },
+    {
+        "number": 167,
+        "name": "permanent green olive",
+        "family": "green",
+        "hex": "#4C7A4F"
+    },
+    {
+        "number": 168,
+        "name": "earth green yellowish",
+        "family": "green",
+        "hex": "#82A255"
+    },
+    {
+        "number": 169,
+        "name": "caput mortuum",
+        "family": "brown",
+        "hex": "#9A5D58"
+    },
+    {
+        "number": 170,
+        "name": "may green",
+        "family": "green",
+        "hex": "#9FBB56"
+    },
+    {
+        "number": 171,
+        "name": "light green",
+        "family": "green",
+        "hex": "#A0D185"
+    },
+    {
+        "number": 172,
+        "name": "earth green",
+        "family": "green",
+        "hex": "#738C70"
+    },
+    {
+        "number": 173,
+        "name": "olive green yellowish",
+        "family": "green",
+        "hex": "#5B5D44"
+    },
+    {
+        "number": 174,
+        "name": "chromium green opaque",
+        "family": "green",
+        "hex": "#65714F"
+    },
+    {
+        "number": 175,
+        "name": "dark sepia",
+        "family": "brown",
+        "hex": "#474948"
+    },
+    {
+        "number": 176,
+        "name": "Van Dyck brown",
+        "family": "brown",
+        "hex": "#6C5954"
+    },
+    {
+        "number": 177,
+        "name": "walnut brown",
+        "family": "brown",
+        "hex": "#5D4F48"
+    },
+    {
+        "number": 178,
+        "name": "nougat",
+        "family": "brown",
+        "hex": "#927C6B"
+    },
+    {
+        "number": 179,
+        "name": "bistre",
+        "family": "brown",
+        "hex": "#7C604C"
+    },
+    {
+        "number": 180,
+        "name": "raw umber",
+        "family": "brown",
+        "hex": "#9A734A"
+    },
+    {
+        "number": 181,
+        "name": "Payne´s grey",
+        "family": "grey",
+        "hex": "#484E55"
+    },
+    {
+        "number": 182,
+        "name": "brown ochre",
+        "family": "brown",
+        "hex": "#C4925D"
+    },
+    {
+        "number": 183,
+        "name": "light yellow ochre",
+        "family": "yellow",
+        "hex": "#FCBC5F"
+    },
+    {
+        "number": 184,
+        "name": "dark Naples ochre",
+        "family": "yellow",
+        "hex": "#F5C25B"
+    },
+    {
+        "number": 185,
+        "name": "Naples yellow",
+        "family": "yellow",
+        "hex": "#F8D25A"
+    },
+    {
+        "number": 186,
+        "name": "terracotta",
+        "family": "orange",
+        "hex": "#EC8E59"
+    },
+    {
+        "number": 187,
+        "name": "burnt ochre",
+        "family": "brown",
+        "hex": "#D89763"
+    },
+    {
+        "number": 188,
+        "name": "sanguine",
+        "family": "orange",
+        "hex": "#D77255"
+    },
+    {
+        "number": 189,
+        "name": "cinnamon",
+        "family": "orange",
+        "hex": "#E4A893"
+    },
+    {
+        "number": 190,
+        "name": "Venetian red",
+        "family": "orange",
+        "hex": "#DC7E76"
+    },
+    {
+        "number": 191,
+        "name": "Pompeian red",
+        "family": "red",
+        "hex": "#E77C83"
+    },
+    {
+        "number": 192,
+        "name": "Indian red",
+        "family": "red",
+        "hex": "#91474A"
+    },
+    {
+        "number": 193,
+        "name": "burnt carmine",
+        "family": "red",
+        "hex": "#AA5164"
+    },
+    {
+        "number": 194,
+        "name": "red-violet",
+        "family": "violet",
+        "hex": "#88496D"
+    },
+    {
+        "number": 199,
+        "name": "black",
+        "family": "neutral",
+        "hex": "#050505"
+    },
+    {
+        "number": 219,
+        "name": "deep scarlet red",
+        "family": "red",
+        "hex": "#E8495E"
+    },
+    {
+        "number": 223,
+        "name": "deep red",
+        "family": "red",
+        "hex": "#E42F44"
+    },
+    {
+        "number": 225,
+        "name": "dark red",
+        "family": "red",
+        "hex": "#A63055"
+    },
+    {
+        "number": 226,
+        "name": "alizarin crimson",
+        "family": "red",
+        "hex": "#DF2D5D"
+    },
+    {
+        "number": 230,
+        "name": "cold grey I",
+        "family": "grey",
+        "hex": "#CAD1D8"
+    },
+    {
+        "number": 231,
+        "name": "cold grey II",
+        "family": "grey",
+        "hex": "#BEC4CC"
+    },
+    {
+        "number": 232,
+        "name": "cold grey III",
+        "family": "grey",
+        "hex": "#ACB1B8"
+    },
+    {
+        "number": 233,
+        "name": "cold grey IV",
+        "family": "grey",
+        "hex": "#8E9498"
+    },
+    {
+        "number": 234,
+        "name": "cold grey V",
+        "family": "grey",
+        "hex": "#6E7176"
+    },
+    {
+        "number": 235,
+        "name": "cold grey VI",
+        "family": "grey",
+        "hex": "#575758"
+    },
+    {
+        "number": 247,
+        "name": "indanthrene blue",
+        "family": "blue",
+        "hex": "#445E98"
+    },
+    {
+        "number": 249,
+        "name": "mauve",
+        "family": "violet",
+        "hex": "#6157A1"
+    },
+    {
+        "number": 250,
+        "name": "gold",
+        "family": "metallic",
+        "hex": "#CDC08D"
+    },
+    {
+        "number": 251,
+        "name": "silver",
+        "family": "metallic",
+        "hex": "#ABADB0"
+    },
+    {
+        "number": 252,
+        "name": "copper",
+        "family": "metallic",
+        "hex": "#B09092"
+    },
+    {
+        "number": 263,
+        "name": "caput mortuum violet",
+        "family": "violet",
+        "hex": "#824E51"
+    },
+    {
+        "number": 264,
+        "name": "dark phthalo green",
+        "family": "green",
+        "hex": "#009378"
+    },
+    {
+        "number": 266,
+        "name": "permanent green",
+        "family": "green",
+        "hex": "#278A46"
+    },
+    {
+        "number": 267,
+        "name": "pine green",
+        "family": "green",
+        "hex": "#315C48"
+    },
+    {
+        "number": 268,
+        "name": "green gold",
+        "family": "yellow",
+        "hex": "#CA9439"
+    },
+    {
+        "number": 270,
+        "name": "warm grey I",
+        "family": "grey",
+        "hex": "#D9D0CE"
+    },
+    {
+        "number": 271,
+        "name": "warm grey II",
+        "family": "grey",
+        "hex": "#C8C1BE"
+    },
+    {
+        "number": 272,
+        "name": "warm grey III",
+        "family": "grey",
+        "hex": "#A8A59F"
+    },
+    {
+        "number": 273,
+        "name": "warm grey IV",
+        "family": "grey",
+        "hex": "#7C7E7F"
+    },
+    {
+        "number": 274,
+        "name": "warm grey V",
+        "family": "grey",
+        "hex": "#626060"
+    },
+    {
+        "number": 275,
+        "name": "warm grey VI",
+        "family": "grey",
+        "hex": "#585557"
+    },
+    {
+        "number": 276,
+        "name": "chrome oxide green fiery",
+        "family": "green",
+        "hex": "#00987F"
+    },
+    {
+        "number": 278,
+        "name": "chrome oxide green",
+        "family": "green",
+        "hex": "#4A614B"
+    },
+    {
+        "number": 280,
+        "name": "burnt umber",
+        "family": "brown",
+        "hex": "#685546"
+    },
+    {
+        "number": 283,
+        "name": "burnt siena",
+        "family": "brown",
+        "hex": "#895A47"
+    }
+]

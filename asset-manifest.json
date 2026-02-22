@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/RANGEEN./static/css/main.41ddb902.css",
+    "main.js": "/RANGEEN./static/js/main.72c8c00b.js",
+    "static/js/453.a2bba1df.chunk.js": "/RANGEEN./static/js/453.a2bba1df.chunk.js",
+    "static/media/glass-marbles.otf": "/RANGEEN./static/media/glass-marbles.514831b98d5d2aee6502.otf",
+    "static/media/RubikGlitch-Regular.ttf": "/RANGEEN./static/media/RubikGlitch-Regular.c45582ca18588f33422e.ttf",
+    "static/media/SpecialGothicExpandedOne-Regular.ttf": "/RANGEEN./static/media/SpecialGothicExpandedOne-Regular.15004d6c7fcb054498c9.ttf",
+    "index.html": "/RANGEEN./index.html",
+    "main.41ddb902.css.map": "/RANGEEN./static/css/main.41ddb902.css.map",
+    "main.72c8c00b.js.map": "/RANGEEN./static/js/main.72c8c00b.js.map",
+    "453.a2bba1df.chunk.js.map": "/RANGEEN./static/js/453.a2bba1df.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.41ddb902.css",
+    "static/js/main.72c8c00b.js"
+  ]
+}
